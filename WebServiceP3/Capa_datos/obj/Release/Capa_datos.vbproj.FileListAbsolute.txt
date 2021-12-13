@@ -1,0 +1,10 @@
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\bin\Release\Capa_datos.dll
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\bin\Release\Capa_datos.pdb
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\bin\Release\Capa_datos.xml
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Release\Capa_datos.vbproj.AssemblyReference.cache
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Release\Capa_datos.Resources.resources
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Release\Capa_datos.vbproj.GenerateResource.cache
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Release\Capa_datos.vbproj.CoreCompileInputs.cache
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Release\Capa_datos.dll
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Release\Capa_datos.xml
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Release\Capa_datos.pdb

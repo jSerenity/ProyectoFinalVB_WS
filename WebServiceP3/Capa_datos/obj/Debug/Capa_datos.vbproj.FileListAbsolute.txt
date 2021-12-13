@@ -1,0 +1,9 @@
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\bin\Debug\Capa_datos.dll
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\bin\Debug\Capa_datos.pdb
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\bin\Debug\Capa_datos.xml
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Debug\Capa_datos.Resources.resources
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Debug\Capa_datos.vbproj.GenerateResource.cache
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Debug\Capa_datos.vbproj.CoreCompileInputs.cache
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Debug\Capa_datos.dll
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Debug\Capa_datos.xml
+C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_datos\obj\Debug\Capa_datos.pdb
