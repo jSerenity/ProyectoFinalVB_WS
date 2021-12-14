@@ -23,7 +23,7 @@ Public Class WebServiceProfesor
     End Function
 
     <WebMethod()>
-    Public Function ListarCategoria() As DataTable
+    Public Function ListarCategoria() As DataSet
         Dim obj_profesor As New Profesor
         Return obj_profesor.ListarCategoria()
     End Function

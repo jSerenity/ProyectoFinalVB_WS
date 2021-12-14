@@ -12,3 +12,17 @@ C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_servicios\obj\Debug\Capa_ser
 C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_servicios\obj\Debug\Capa_servicios.dll
 C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_servicios\obj\Debug\Capa_servicios.xml
 C:\Users\Juan Pinzon\source\repos\WebServiceP3\Capa_servicios\obj\Debug\Capa_servicios.pdb
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\bin\Debug\Capa_servicios.dll
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\bin\Debug\Capa_servicios.pdb
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\bin\Debug\Capa_servicios.xml
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\bin\Debug\Capa_datos.dll
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\bin\Debug\Capa_datos.pdb
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\bin\Debug\Capa_datos.xml
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\obj\Debug\Capa_servicios.vbproj.AssemblyReference.cache
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\obj\Debug\Capa_servicios.Resources.resources
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\obj\Debug\Capa_servicios.vbproj.GenerateResource.cache
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\obj\Debug\Capa_servicios.vbproj.CoreCompileInputs.cache
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\obj\Debug\Capa_servicios.vbproj.CopyComplete
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\obj\Debug\Capa_servicios.dll
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\obj\Debug\Capa_servicios.xml
+C:\Users\Juan Pinzon\Documents\UTP\ProyectoFinalVB_WS\WebServiceP3\Capa_servicios\obj\Debug\Capa_servicios.pdb

@@ -16,7 +16,6 @@ Public Class Profesor
             command.CommandType = CommandType.StoredProcedure
             Dim sqlAdapter As SqlDataAdapter = New SqlDataAdapter(command)
             sqlAdapter.Fill(ds)
-            DB.connection.Close()
             Return ds
         Catch ex As Exception
             Console.WriteLine("error" + ex.ToString)
@@ -24,8 +23,8 @@ Public Class Profesor
             DB.connection.Close()
         End Try
     End Function
-    Public Function ListarCategoria() As DataTable
-        Dim dt As New DataTable
+    Public Function ListarCategoria() As DataSet
+        Dim dt As New DataSet
 
         Try
             DB.connection.Open()
